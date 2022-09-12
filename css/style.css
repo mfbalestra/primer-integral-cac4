@@ -5,3 +5,13 @@
 .texto-verdesin {
     color: rgb(51, 117, 71);
 }
+
+.boton-verde {
+    background-color: rgb(41, 167, 67);
+    color: white;
+}
+
+.imagen-carta {
+    max-width: 100%;
+    max-height: 25%;
+}

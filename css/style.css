@@ -12,6 +12,5 @@
 }
 
 .imagen-carta {
-    max-width: 100%;
-    max-height: 25%;
+    opacity: 0.5;
 }
